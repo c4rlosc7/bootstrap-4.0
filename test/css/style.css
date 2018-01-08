@@ -2,12 +2,12 @@ html {
   font-size: 15px; }
 
 .welcome {
-  background: url("../images/superman-home.png");
   background-size: cover;
-  height: 100vh; }
+  height: 100vh;
+  overflow: hidden; }
 
-.header {
-  background: rgba(92, 88, 88, 0.28);
+.navbar-fixed-top {
+  background: rgba(92, 88, 88, 0.39);
   font-weight: bold;
   color: white; }
 
@@ -37,5 +37,14 @@ html {
 
 #mainMenu {
   clear: both; }
+
+.text-welcome {
+  color: #818a91;
+  margin-top: 8rem; }
+
+/* About us */
+.about-us {
+  background: #039BE5;
+  color: white; }
 
 /*# sourceMappingURL=style.css.map */
