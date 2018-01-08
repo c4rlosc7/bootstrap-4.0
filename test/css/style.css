@@ -47,4 +47,13 @@ html {
   background: #039BE5;
   color: white; }
 
+/* Enemies */
+.enemies {
+  color: #fff;
+  background: #424141; }
+
+.enemies img {
+  widows: 140px;
+  height: 124px; }
+
 /*# sourceMappingURL=style.css.map */
